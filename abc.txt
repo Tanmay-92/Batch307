@@ -1,7 +1,0 @@
-hello
-world(local changes)
-Good morning Tanmay
-hi(remote changes)
-bye
-everyone
-
